@@ -4,7 +4,7 @@
 
 <h1 align="center">Site Prevent</h1>
 
-Site Institucional e painel adiministrativo construído para a Prevent Acessoria.
+Site Institucional e painel administrativo construído para a Prevent Acessoria.
 
 ### :rocket: Tecnologias:
 - [PHP](https://www.php.net/)
