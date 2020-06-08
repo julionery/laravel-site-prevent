@@ -1,3 +1,7 @@
+<h3 align="center">
+    <img alt="Logo" title="#logo" width="250px" src="https://github.com/julionery/laravel-site-prevent/blob/master/public/img/logo_prev.jpg?raw=true">
+</h3>
+
 <h1 align="center">Site Prevent</h1>
 
 Site Institucional e painel adiministrativo construído para a Prevent Acessoria.
